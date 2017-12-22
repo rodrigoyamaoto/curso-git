@@ -3,4 +3,6 @@ function even(){
 	
 	if(number%2 == 0)
 		alert('Número Par');
+	else
+		alert('Numero Impar');
 }
